@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">projetAndroid</string>
+    <string name="msg">wesh</string>
+    <string name="button_state">click</string>
+</resources>

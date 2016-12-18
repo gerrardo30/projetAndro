@@ -10,8 +10,37 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="org.esiea.leholloco_mariaseelan.projetandroid.SecondeActivity">
 
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentRight="true"
+    android:layout_alignParentEnd="true"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentStart="true"
+    android:layout_marginTop="0dp"
+    android:text="@string/t"
+    android:id="@+id/t"/>
 
 
+<EditText
+    android:id="@+id/text"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentRight="true"
+    android:layout_alignParentEnd="true"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentStart="true"
+    android:layout_marginTop="24dp"/>
+
+    <Button
+        android:text="search"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/text"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="29dp"
+        android:id="@+id/button"
+        android:onClick="research"/>
 
 
 </RelativeLayout>

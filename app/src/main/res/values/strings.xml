@@ -1,5 +1,14 @@
 <resources>
-    <string name="app_name">projetAndroid</string>
-    <string name="msg">wesh</string>
-    <string name="button_state">click</string>
+    <string name="app_name">AndroidProject</string>
+    <string name="msg">Heyyy</string>
+    <string name="button_state"></string>
+    <string name="button_state_1"></string>
+    <string name="retour">back</string>
+    <string name="title_activity_third_activity">Music</string>
+    <string name="newbutton">Color</string>
+    <string name="clique">Json</string>
+    <string name="music">music</string>
+    <string name="londres">Map</string>
+    <string name="notif">notification</string>
+    <string name="t">Put the name of a city :</string>
 </resources>

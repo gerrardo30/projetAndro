@@ -1,2 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_name">projetAndroid</string>
+    <string name="msg">Ouaaah!</string>
+    <string name="button_state"></string>
+    <string name="button_state_1"></string>
+    <string name="retour">retour</string>
+    <string name="music">musique</string>
+    <string name="newbutton">Couleur</string>
+    <string name="clique">Json</string>
+    <string name="londres">Carte</string>
+
+</resources>
